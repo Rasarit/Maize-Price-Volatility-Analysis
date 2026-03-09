@@ -49,12 +49,17 @@ maize-price-volatility
 
 ## 1. Monthly Price Change
 
+![Monthly Price Change](maize_price_change.svg)
+
 This chart shows the **monthly change in maize prices**.
+
 It highlights how much prices increase or decrease between consecutive months.
 
 ---
 
 ## 2. Price Volatility
+
+![Price Volatility](maize_price_volatility.svg)
 
 This chart shows the **percentage change in maize prices**, which helps measure price volatility over time.
 
