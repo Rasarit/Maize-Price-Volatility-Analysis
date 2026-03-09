@@ -37,7 +37,7 @@ The dataset includes **monthly price observations over several years**.
 ```
 maize-price-volatility
 │
-├── maize_price.csv
+├── maize_price_arrivals.csv
 ├── price_volatility_analysis.R
 ├── maize_price_change.svg
 ├── maize_price_volatility.svg
@@ -156,7 +156,7 @@ The dataset includes **monthly price observations over several years**.
 ```
 maize-price-volatility
 │
-├── maize_price.csv
+├── maize_price_arrivals.csv
 ├── price_volatility_analysis.R
 ├── maize_price_change.svg
 ├── maize_price_volatility.svg
